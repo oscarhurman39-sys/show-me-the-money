@@ -1,0 +1,20 @@
+{
+  "name": "garden-doordrop",
+  "area": "SET ME — street/estate name, e.g. 'Elm Road test street'",
+  "makeover_style": "Transform this front garden into a beautifully maintained version of itself: healthy striped lawn, tidy edges, weeded and freshly mulched borders planted with cottage-garden perennials (lavender, salvia, foxgloves), pressure-washed path and driveway. Keep the house, windows, doors, walls, fences, cars and street exactly as they are — same camera angle, same lighting, photorealistic. Only improve the garden and planting.",
+  "copy": {
+    "headline": "Your garden, reimagined.",
+    "subhead": "This is YOUR front garden — we made this picture from a photo of your street to show what it could look like.",
+    "body": "A local landscaping team can make this real. No obligation, no pressure — if you'd like a free quote for anything in the picture (or your own ideas), get in touch and quote your house code.",
+    "cta": "Free quote — scan or call"
+  },
+  "contact": {
+    "phone": "SET ME — the number responses come to",
+    "response_url": "SET ME — landing/form URL for the QR code, e.g. a free Tally form. House code is appended as ?h=CODE"
+  },
+  "costs_gbp": {
+    "image_per_makeover": null,
+    "print_per_flyer": null,
+    "note": "Fill these in when known (MuAPI pricing page / print shop quote). Ledger stats stay honest: null = 'unknown', never guessed."
+  }
+}
